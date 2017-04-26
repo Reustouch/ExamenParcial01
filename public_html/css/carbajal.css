@@ -1,0 +1,29 @@
+*{
+    font-family: 'Ranga', cursive;
+    margin: 0px;
+    padding: 0px
+}
+body {
+    background-image: url("../imagenes/fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#container {
+    background-image: url('../imagenes/html55.jpg');
+    max-width:1400px ;
+    width: 90%;
+    height: 80%;
+    alignment:center;
+}
+header nav {
+    float:light;
+    line-height: 100px;
+}
+header nav a {
+    display: inline;
+    text-decoration:none;
+    
+}
+
